@@ -9,6 +9,8 @@
   "dependencies": {
     "@quasar/extras": "^1.0.0",
     "core-js": "^3.8.3",
+    "moment": "^2.29.4",
+    "pinia": "^2.0.23",
     "quasar": "^2.0.0",
     "vue": "^3.2.13"
   },

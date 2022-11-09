@@ -1,16 +1,16 @@
 # tasks_jobs
 
-## Project setup
+## Установка проекта
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Запуск проекта в режиме разработки
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+###  Запуск билда проекта
 ```
 yarn build
 ```
